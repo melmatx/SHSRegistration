@@ -1,0 +1,10 @@
+com/example/shsregistration/RequirementsActivity.java
+ com.example.shsregistration.RequirementsActivity
+com/example/shsregistration/RegisterActivity.java
+ com.example.shsregistration.RegisterActivity
+com/example/shsregistration/MainActivity.java
+ com.example.shsregistration.MainActivity
+com/example/shsregistration/ViewAllActivity.java
+ com.example.shsregistration.ViewAllActivity
+com/example/shsregistration/BuildConfig.java
+ com.example.shsregistration.BuildConfig

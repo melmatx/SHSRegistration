@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SHS Registration</string>
+
+    <string name="form138">Original Report Card (Form 138)</string>
+    <string name="nso">NSO copy of Birth Certificate</string>
+    <string name="gmo">Certificate of Good Moral Character</string>
+    <string name="jhs">Certification of Junior High School Completion</string>
+
+    <string-array name="academic_programs">
+        <item>ABM</item>
+        <item>HUMSS</item>
+        <item>CCTECH</item>
+        <item>MAWD</item>
+        <item>HOPER</item>
+        <item>TOPER</item>
+    </string-array>
+
+    <string-array name="actionbar_colors">
+        <item>Teal</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
